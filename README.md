@@ -133,13 +133,17 @@ documentation](docs/statistics.md).
 
 ## Contributing
 
-1. Fork FastForward (or a plugin) from
+By contributing to this project you are making your contribution available
+to the project under the conditions of the Apache 2 license and you confirm
+that you have the right to do so.
+   
+2. Fork FastForward (or a plugin) from
    [github](https://github.com/spotify/ffwd) and clone your fork.
-2. Hack.
-3. Verify code by running any existing test-suite; ```bundle exec rspec```.
+3. Hack.
+4. Verify code by running any existing test-suite; ```bundle exec rspec```.
    Try to include tests for your changes.
-4. Push the branch back to GitHub.
-5. Send a pull request to our upstream repo.
+5. Push the branch back to GitHub.
+6. Send a pull request to our upstream repo.
 
 ## Debugging
 
